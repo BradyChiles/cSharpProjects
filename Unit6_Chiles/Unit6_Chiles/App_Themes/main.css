@@ -1,0 +1,26 @@
+﻿body {
+}
+
+h4{
+    color: red;
+    font-style: italic;
+    font-family: Brush Script Std, Brush Script MT, cursive;
+}
+h1, h2{
+    color: blue;
+}
+form{
+    margin-left: 20px;
+}
+.confirmationLabels{
+    color: green;
+}
+.validator{
+    margin-left: 10px;
+}
+.radioButtons input{
+    margin-left: 20px;
+}
+.labelSpace{
+    margin-right: 5px;
+}
